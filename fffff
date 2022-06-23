@@ -1,0 +1,9 @@
+git init
+git add f1
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sravs712/bank.git
+git push -u origin main
+
+
+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
